@@ -1,7 +1,5 @@
 # Decimal
 
-![decimals](/images/decimals.jpeg)
-
 The library contains different functions to work with very big numbers:
 
 ### Arithmetic Operators
